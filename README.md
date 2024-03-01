@@ -1,2 +1,3 @@
 # tela-de-login
-Tela de login criada com HTML, CSS, JavaScript e Bootstrap
+
+Tela de login criada com HTML, Bootstrap, JavaScript e
